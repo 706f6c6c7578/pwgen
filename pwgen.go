@@ -10,7 +10,7 @@ import (
 
 const (
     minLength = 13
-    charset   = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&*()-+=.,:;"
+    charset   = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!?@#$%&/*()-+=.,:;"
 )
 
 func main() {
